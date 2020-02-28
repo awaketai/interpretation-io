@@ -1,0 +1,20 @@
+{
+    "name": "asher/io",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "asher",
+            "email": "awaketai@gmail.com"
+        }
+    ],
+    "autoload": {
+      "psr-4": {
+        "Asher\\Io\\": "./src"
+      },
+      "files": [
+        "src/helper.php"
+      ]
+    },
+    "require": {}
+}
